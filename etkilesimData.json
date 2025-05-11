@@ -1,0 +1,562 @@
+[
+  {
+    "molekul1": 11,
+    "molekul2": 11,
+    "tur1": 1,
+    "tur2": 1,
+    "etkilesim": 0
+  },
+  {
+    "molekul1": 11,
+    "molekul2": 17,
+    "tur1": 1,
+    "tur2": 1,
+    "etkilesim": 0
+  },
+  {
+    "molekul1": 11,
+    "molekul2": 0,
+    "tur1": 1,
+    "tur2": 0,
+    "etkilesim": 4
+  },
+  {
+    "molekul1": 11,
+    "molekul2": 2,
+    "tur1": 1,
+    "tur2": 0,
+    "etkilesim": 4
+  },
+  {
+    "molekul1": 11,
+    "molekul2": 4,
+    "tur1": 1,
+    "tur2": 0,
+    "etkilesim": 4
+  },
+  {
+    "molekul1": 11,
+    "molekul2": 18,
+    "tur1": 1,
+    "tur2": 1,
+    "etkilesim": 0
+  },
+  {
+    "molekul1": 11,
+    "molekul2": 5,
+    "tur1": 1,
+    "tur2": 2,
+    "etkilesim": 1
+  },
+  {
+    "molekul1": 11,
+    "molekul2": 6,
+    "tur1": 1,
+    "tur2": 2,
+    "etkilesim": 1
+  },
+  {
+    "molekul1": 11,
+    "molekul2": 7,
+    "tur1": 1,
+    "tur2": 2,
+    "etkilesim": 1
+  },
+  {
+    "molekul1": 11,
+    "molekul2": 8,
+    "tur1": 1,
+    "tur2": 2,
+    "etkilesim": 1
+  },
+  {
+    "molekul1": 11,
+    "molekul2": 9,
+    "tur1": 1,
+    "tur2": 2,
+    "etkilesim": 1
+  },
+  {
+    "molekul1": 11,
+    "molekul2": 10,
+    "tur1": 1,
+    "tur2": 2,
+    "etkilesim": 1
+  },
+  {
+    "molekul1": 12,
+    "molekul2": 12,
+    "tur1": 1,
+    "tur2": 1,
+    "etkilesim": 0
+  },
+  {
+    "molekul1": 12,
+    "molekul2": 17,
+    "tur1": 1,
+    "tur2": 1,
+    "etkilesim": 0
+  },
+  {
+    "molekul1": 12,
+    "molekul2": 1,
+    "tur1": 1,
+    "tur2": 0,
+    "etkilesim": 4
+  },
+  {
+    "molekul1": 12,
+    "molekul2": 2,
+    "tur1": 1,
+    "tur2": 0,
+    "etkilesim": 4
+  },
+  {
+    "molekul1": 12,
+    "molekul2": 4,
+    "tur1": 1,
+    "tur2": 0,
+    "etkilesim": 4
+  },
+  {
+    "molekul1": 12,
+    "molekul2": 18,
+    "tur1": 1,
+    "tur2": 1,
+    "etkilesim": 0
+  },
+  {
+    "molekul1": 12,
+    "molekul2": 5,
+    "tur1": 1,
+    "tur2": 2,
+    "etkilesim": 1
+  },
+  {
+    "molekul1": 12,
+    "molekul2": 9,
+    "tur1": 1,
+    "tur2": 2,
+    "etkilesim": 1
+  },
+  {
+    "molekul1": 12,
+    "molekul2": 10,
+    "tur1": 1,
+    "tur2": 2,
+    "etkilesim": 1
+  },
+  {
+    "molekul1": 13,
+    "molekul2": 13,
+    "tur1": 1,
+    "tur2": 1,
+    "etkilesim": 0
+  },
+  {
+    "molekul1": 13,
+    "molekul2": 14,
+    "tur1": 1,
+    "tur2": 1,
+    "etkilesim": 0
+  },
+  {
+    "molekul1": 13,
+    "molekul2": 15,
+    "tur1": 1,
+    "tur2": 1,
+    "etkilesim": 0
+  },
+  {
+    "molekul1": 13,
+    "molekul2": 17,
+    "tur1": 1,
+    "tur2": 1,
+    "etkilesim": 0
+  },
+  {
+    "molekul1": 13,
+    "molekul2": 2,
+    "tur1": 1,
+    "tur2": 0,
+    "etkilesim": 4
+  },
+  {
+    "molekul1": 13,
+    "molekul2": 4,
+    "tur1": 1,
+    "tur2": 0,
+    "etkilesim": 4
+  },
+  {
+    "molekul1": 13,
+    "molekul2": 18,
+    "tur1": 1,
+    "tur2": 1,
+    "etkilesim": 0
+  },
+  {
+    "molekul1": 14,
+    "molekul2": 14,
+    "tur1": 1,
+    "tur2": 1,
+    "etkilesim": 0
+  },
+  {
+    "molekul1": 14,
+    "molekul2": 17,
+    "tur1": 1,
+    "tur2": 1,
+    "etkilesim": 0
+  },
+  {
+    "molekul1": 14,
+    "molekul2": 0,
+    "tur1": 1,
+    "tur2": 0,
+    "etkilesim": 4
+  },
+  {
+    "molekul1": 14,
+    "molekul2": 1,
+    "tur1": 1,
+    "tur2": 0,
+    "etkilesim": 4
+  },
+  {
+    "molekul1": 14,
+    "molekul2": 2,
+    "tur1": 1,
+    "tur2": 0,
+    "etkilesim": 4
+  },
+  {
+    "molekul1": 14,
+    "molekul2": 3,
+    "tur1": 1,
+    "tur2": 0,
+    "etkilesim": 4
+  },
+  {
+    "molekul1": 14,
+    "molekul2": 4,
+    "tur1": 1,
+    "tur2": 0,
+    "etkilesim": 4
+  },
+  {
+    "molekul1": 14,
+    "molekul2": 18,
+    "tur1": 1,
+    "tur2": 0,
+    "etkilesim": 4
+  },
+  {
+    "molekul1": 15,
+    "molekul2": 15,
+    "tur1": 1,
+    "tur2": 1,
+    "etkilesim": 0
+  },
+  {
+    "molekul1": 15,
+    "molekul2": 17,
+    "tur1": 1,
+    "tur2": 1,
+    "etkilesim": 0
+  },
+  {
+    "molekul1": 15,
+    "molekul2": 2,
+    "tur1": 1,
+    "tur2": 0,
+    "etkilesim": 4
+  },
+  {
+    "molekul1": 15,
+    "molekul2": 3,
+    "tur1": 1,
+    "tur2": 0,
+    "etkilesim": 4
+  },
+  {
+    "molekul1": 15,
+    "molekul2": 18,
+    "tur1": 1,
+    "tur2": 0,
+    "etkilesim": 4
+  },
+  {
+    "molekul1": 16,
+    "molekul2": 16,
+    "tur1": 1,
+    "tur2": 1,
+    "etkilesim": 0
+  },
+  {
+    "molekul1": 16,
+    "molekul2": 17,
+    "tur1": 1,
+    "tur2": 1,
+    "etkilesim": 0
+  },
+  {
+    "molekul1": 16,
+    "molekul2": 2,
+    "tur1": 1,
+    "tur2": 0,
+    "etkilesim": 4
+  },
+  {
+    "molekul1": 16,
+    "molekul2": 3,
+    "tur1": 1,
+    "tur2": 0,
+    "etkilesim": 4
+  },
+  {
+    "molekul1": 16,
+    "molekul2": 18,
+    "tur1": 1,
+    "tur2": 0,
+    "etkilesim": 4
+  },
+  {
+    "molekul1": 17,
+    "molekul2": 0,
+    "tur1": 1,
+    "tur2": 0,
+    "etkilesim": 4
+  },
+  {
+    "molekul1": 17,
+    "molekul2": 2,
+    "tur1": 1,
+    "tur2": 0,
+    "etkilesim": 4
+  },
+  {
+    "molekul1": 17,
+    "molekul2": 3,
+    "tur1": 1,
+    "tur2": 0,
+    "etkilesim": 4
+  },
+  {
+    "molekul1": 17,
+    "molekul2": 5,
+    "tur1": 1,
+    "tur2": 2,
+    "etkilesim": 1
+  },
+  {
+    "molekul1": 17,
+    "molekul2": 8,
+    "tur1": 1,
+    "tur2": 2,
+    "etkilesim": 1
+  },
+  {
+    "molekul1": 17,
+    "molekul2": 9,
+    "tur1": 1,
+    "tur2": 2,
+    "etkilesim": 1
+  },
+  {
+    "molekul1": 0,
+    "molekul2": 0,
+    "tur1": 0,
+    "tur2": 0,
+    "etkilesim": 2
+  },
+  {
+    "molekul1": 0,
+    "molekul2": 1,
+    "tur1": 0,
+    "tur2": 0,
+    "etkilesim": 2
+  },
+  {
+    "molekul1": 0,
+    "molekul2": 2,
+    "tur1": 0,
+    "tur2": 0,
+    "etkilesim": 2
+  },
+  {
+    "molekul1": 0,
+    "molekul2": 4,
+    "tur1": 0,
+    "tur2": 0,
+    "etkilesim": 2
+  },
+  {
+    "molekul1": 0,
+    "molekul2": 18,
+    "tur1": 0,
+    "tur2": 1,
+    "etkilesim": 4
+  },
+  {
+    "molekul1": 0,
+    "molekul2": 7,
+    "tur1": 0,
+    "tur2": 2,
+    "etkilesim": 3
+  },
+  {
+    "molekul1": 0,
+    "molekul2": 8,
+    "tur1": 0,
+    "tur2": 2,
+    "etkilesim": 3
+  },
+  {
+    "molekul1": 1,
+    "molekul2": 2,
+    "tur1": 0,
+    "tur2": 0,
+    "etkilesim": 2
+  },
+  {
+    "molekul1": 1,
+    "molekul2": 3,
+    "tur1": 0,
+    "tur2": 0,
+    "etkilesim": 2
+  },
+  {
+    "molekul1": 1,
+    "molekul2": 18,
+    "tur1": 0,
+    "tur2": 0,
+    "etkilesim": 2
+  },
+  {
+    "molekul1": 1,
+    "molekul2": 6,
+    "tur1": 0,
+    "tur2": 2,
+    "etkilesim": 3
+  },
+  {
+    "molekul1": 1,
+    "molekul2": 9,
+    "tur1": 0,
+    "tur2": 2,
+    "etkilesim": 3
+  },
+  {
+    "molekul1": 2,
+    "molekul2": 2,
+    "tur1": 0,
+    "tur2": 0,
+    "etkilesim": 2
+  },
+  {
+    "molekul1": 2,
+    "molekul2": 3,
+    "tur1": 0,
+    "tur2": 0,
+    "etkilesim": 2
+  },
+  {
+    "molekul1": 2,
+    "molekul2": 18,
+    "tur1": 0,
+    "tur2": 0,
+    "etkilesim": 2
+  },
+  {
+    "molekul1": 2,
+    "molekul2": 6,
+    "tur1": 0,
+    "tur2": 2,
+    "etkilesim": 3
+  },
+  {
+    "molekul1": 2,
+    "molekul2": 10,
+    "tur1": 0,
+    "tur2": 2,
+    "etkilesim": 3
+  },
+  {
+    "molekul1": 3,
+    "molekul2": 3,
+    "tur1": 0,
+    "tur2": 0,
+    "etkilesim": 2
+  },
+  {
+    "molekul1": 3,
+    "molekul2": 18,
+    "tur1": 0,
+    "tur2": 0,
+    "etkilesim": 2
+  },
+  {
+    "molekul1": 4,
+    "molekul2": 4,
+    "tur1": 0,
+    "tur2": 1,
+    "etkilesim": 4
+  },
+  {
+    "molekul1": 4,
+    "molekul2": 18,
+    "tur1": 0,
+    "tur2": 0,
+    "etkilesim": 2
+  },
+  {
+    "molekul1": 4,
+    "molekul2": 5,
+    "tur1": 0,
+    "tur2": 2,
+    "etkilesim": 3
+  },
+  {
+    "molekul1": 4,
+    "molekul2": 8,
+    "tur1": 0,
+    "tur2": 2,
+    "etkilesim": 3
+  },
+  {
+    "molekul1": 4,
+    "molekul2": 9,
+    "tur1": 0,
+    "tur2": 2,
+    "etkilesim": 3
+  },
+  {
+    "molekul1": 18,
+    "molekul2": 18,
+    "tur1": 1,
+    "tur2": 1,
+    "etkilesim": 0
+  },
+  {
+    "molekul1": 18,
+    "molekul2": 5,
+    "tur1": 1,
+    "tur2": 2,
+    "etkilesim": 1
+  },
+  {
+    "molekul1": 18,
+    "molekul2": 9,
+    "tur1": 1,
+    "tur2": 2,
+    "etkilesim": 1
+  },
+  {
+    "molekul1": 18,
+    "molekul2": 10,
+    "tur1": 1,
+    "tur2": 2,
+    "etkilesim": 1
+  }
+]
