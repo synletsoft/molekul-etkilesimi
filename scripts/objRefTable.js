@@ -16,6 +16,7 @@ self.C3_GetObjectRefTable = function () {
 		C3.Plugins.Sprite.Acts.SetInstanceVar,
 		C3.Plugins.Sprite.Exps.X,
 		C3.Plugins.Sprite.Exps.Y,
+		C3.Plugins.Sprite.Acts.SetX,
 		C3.Plugins.Touch.Cnds.OnTouchObject,
 		C3.Plugins.Sprite.Cnds.CompareFrame,
 		C3.Plugins.System.Acts.Wait,
@@ -70,6 +71,7 @@ self.C3_GetObjectRefTable = function () {
 		C3.Plugins.System.Cnds.Compare,
 		C3.Plugins.System.Cnds.TriggerOnce,
 		C3.Plugins.Arr.Cnds.CompareSize,
+		C3.Plugins.System.Cnds.ForEachOrdered,
 		C3.Behaviors.Tween.Acts.TweenOneProperty,
 		C3.Plugins.Sprite.Acts.SetWidth,
 		C3.Plugins.System.Exps.loadingprogress,
@@ -138,7 +140,9 @@ self.C3_JsPropNameTable = [
 	{molekuller: 0},
 	{DragDrop: 0},
 	{types: 0},
+	{etkilesimItems: 0},
 	{checkControl: 0},
+	{animStart: 0},
 	{answerUID: 0},
 	{molekulTypeControl: 0},
 	{isLoader: 0}
@@ -195,5 +199,6 @@ self.InstanceType = {
 	Audio: class extends self.IInstance {},
 	olumsuz: class extends self.ISpriteInstance {},
 	molekuller: class extends self.ISpriteInstance {},
-	types: class extends self.ISpriteInstance {}
+	types: class extends self.ISpriteInstance {},
+	etkilesimItems: class extends self.ISpriteInstance {}
 }
