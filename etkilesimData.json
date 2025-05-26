@@ -248,8 +248,8 @@
     "molekul1": 14,
     "molekul2": 18,
     "tur1": 1,
-    "tur2": 0,
-    "etkilesim": 4
+    "tur2": 1,
+    "etkilesim": 0
   },
   {
     "molekul1": 15,
@@ -283,8 +283,8 @@
     "molekul1": 15,
     "molekul2": 18,
     "tur1": 1,
-    "tur2": 0,
-    "etkilesim": 4
+    "tur2": 1,
+    "etkilesim": 0
   },
   {
     "molekul1": 16,
@@ -318,8 +318,8 @@
     "molekul1": 16,
     "molekul2": 18,
     "tur1": 1,
-    "tur2": 0,
-    "etkilesim": 4
+    "tur2": 1,
+    "etkilesim": 0
   },
   {
     "molekul1": 17,
@@ -428,13 +428,6 @@
   },
   {
     "molekul1": 1,
-    "molekul2": 18,
-    "tur1": 0,
-    "tur2": 0,
-    "etkilesim": 2
-  },
-  {
-    "molekul1": 1,
     "molekul2": 6,
     "tur1": 0,
     "tur2": 2,
@@ -465,8 +458,8 @@
     "molekul1": 2,
     "molekul2": 18,
     "tur1": 0,
-    "tur2": 0,
-    "etkilesim": 2
+    "tur2": 1,
+    "etkilesim": 4
   },
   {
     "molekul1": 2,
@@ -490,25 +483,18 @@
     "etkilesim": 2
   },
   {
-    "molekul1": 3,
-    "molekul2": 18,
-    "tur1": 0,
-    "tur2": 0,
-    "etkilesim": 2
-  },
-  {
     "molekul1": 4,
     "molekul2": 4,
     "tur1": 0,
-    "tur2": 1,
-    "etkilesim": 4
+    "tur2": 0,
+    "etkilesim": 2
   },
   {
     "molekul1": 4,
     "molekul2": 18,
     "tur1": 0,
-    "tur2": 0,
-    "etkilesim": 2
+    "tur2": 1,
+    "etkilesim": 4
   },
   {
     "molekul1": 4,
